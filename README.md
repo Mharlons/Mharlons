@@ -1,4 +1,7 @@
-### Olá! Eu sou o Mharlon👋
+💻 Olá! Eu sou o Mharlon👋
+- Sou estudante de Engenharia da Computação na UFES!
+- Estudo atualmente Desenvolvimento web Full Stack, PHP7 e C#!
+
 
 <div align="center">
   <a href="https://github.com/Mharlons">
