@@ -1,5 +1,6 @@
 💻 Olá! Eu sou o Mharlon👋
 - Sou estudante de Engenharia da Computação na UFES!
+- Cursando Web design na plataforma Origamid!
 - Estudo atualmente Desenvolvimento web Full Stack, PHP7 e C#!
 
 
